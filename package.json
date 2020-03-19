@@ -1,0 +1,15 @@
+{
+  "name": "node-gmail",
+  "version": "1.0.0",
+  "description": "Node App connecting to Gmail and sending automated emails with nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prakhar Baveja",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^46.0.0",
+    "nodemailer": "^6.4.2"
+  }
+}
